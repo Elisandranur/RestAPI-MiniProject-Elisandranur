@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user i want to test order on website","GET - As a user I want to list all my order","SUCCESS","2023-05-08T09:51:07.1658289+07:00[Asia/Jakarta]","0.0","0.63"
+"Product Data","POST PRODUCT create a new product","SUCCESS","2023-05-08T09:51:07.8262394+07:00[Asia/Jakarta]","0.0","0.26"
+"Product Data","GET - As a user I want to get all product","SUCCESS","2023-05-08T09:51:08.1510095+07:00[Asia/Jakarta]","0.0","0.99"
+"Product Data","DELETE PRODUCT I want to delete a product","SUCCESS","2023-05-08T09:51:09.1574256+07:00[Asia/Jakarta]","0.0","0.29"
+"Product Data","GET  want to see product comments","SUCCESS","2023-05-08T09:51:09.4726066+07:00[Asia/Jakarta]","0.0","0.88"

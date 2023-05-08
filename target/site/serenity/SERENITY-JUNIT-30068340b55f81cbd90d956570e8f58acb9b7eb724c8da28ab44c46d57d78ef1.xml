@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="As user i want to test order on website" skipped="0" tests="2" time="2.47" timestamp="2023-05-08 09:51:05"><testcase name="POST ORDER I want to make a new order"/><testcase name="GET - As a user I want to list all my order"/></testsuite>

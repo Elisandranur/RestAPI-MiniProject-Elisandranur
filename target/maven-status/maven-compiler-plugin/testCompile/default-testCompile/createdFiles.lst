@@ -1,0 +1,8 @@
+starter\user\Order.class
+starter\user\Hello.class
+starter\user\Product.class
+starter\user\ProductCate.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\UserSteps.class
+starter\user\AuthenRegist.class
+starter\user\AuthenLogin.class
